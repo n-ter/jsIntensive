@@ -29,7 +29,6 @@ const logout = () => {
 
 }
 
-
 buttonAuth.addEventListener('click', () => {
     modalAuth.style.display = 'flex'
 })
