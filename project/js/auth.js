@@ -39,6 +39,7 @@ closeAuth.addEventListener('click', () => {
 
 buttonOut.addEventListener('click', () => {
     logout()
+    window.location.href = '/'
 })
 
 
